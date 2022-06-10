@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ReactInputPage/static/css/main.3e108ca2.css",
+    "main.js": "/ReactInputPage/static/js/main.34fbc3fc.js",
+    "static/js/787.47985ef3.chunk.js": "/ReactInputPage/static/js/787.47985ef3.chunk.js",
+    "static/media/name.jpg": "/ReactInputPage/static/media/name.be6ee04c20ce908b4c2f.jpg",
+    "static/media/locked.jpg": "/ReactInputPage/static/media/locked.3e42563a0d36bc65ec41.jpg",
+    "index.html": "/ReactInputPage/index.html",
+    "main.3e108ca2.css.map": "/ReactInputPage/static/css/main.3e108ca2.css.map",
+    "main.34fbc3fc.js.map": "/ReactInputPage/static/js/main.34fbc3fc.js.map",
+    "787.47985ef3.chunk.js.map": "/ReactInputPage/static/js/787.47985ef3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e108ca2.css",
+    "static/js/main.34fbc3fc.js"
+  ]
+}
